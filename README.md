@@ -1,7 +1,7 @@
 # Sobre mim
 
-- Ola,meu nome e @marianeC15 .
-- Meu gmail de contato e camargomariane14@gmail .
+- Ola,meu nome e @mariane.
+- Meu gmail de contato e mariane.camargode.oliveira@escola.pr.gov.br.
 - 👀 Estou interresada a em aprender programaçao e novas linguagens .
 - 🌱 Estou aprendendo recentementente javaScript e Scrath .
 
